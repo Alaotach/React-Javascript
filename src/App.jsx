@@ -2,6 +2,7 @@ import './App.css'
 import Navbar from './components/Navbar';
 import TextArea from './components/TextArea';
 import Alert from './components/Alert';
+import About from './components/About';
 import {useState} from 'react';
 
 
